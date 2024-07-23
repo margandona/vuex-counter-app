@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "crud-colaboradores-5653e",
+    "prueba": "crud-colaboradores-5653e",
+    "crud-colaboradores": "crud-colaboradores-5653e"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
